@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004286783433",
+    "project_id": "order-product-a893a",
+    "storage_bucket": "order-product-a893a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004286783433:android:05cdece5b9cb9763488218",
+        "android_client_info": {
+          "package_name": "com.example.productorder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm7REhXX015kEk5Z2N-5Dciva9mRTWCBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

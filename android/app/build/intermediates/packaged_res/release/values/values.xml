@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1004286783433</string>
+    <string name="google_api_key" translatable="false">AIzaSyCm7REhXX015kEk5Z2N-5Dciva9mRTWCBs</string>
+    <string name="google_app_id" translatable="false">1:1004286783433:android:05cdece5b9cb9763488218</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCm7REhXX015kEk5Z2N-5Dciva9mRTWCBs</string>
+    <string name="google_storage_bucket" translatable="false">order-product-a893a.appspot.com</string>
+    <string name="project_id" translatable="false">order-product-a893a</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>
